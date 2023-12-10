@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "it.odima.carpool",
+      "sha256_cert_fingerprints": [
+        "DC:AC:8B:C5:1B:15:CA:D8:CA:E8:A2:90:C6:86:41:A3:7E:4D:94:2F:1B:C1:17:CE:BC:6F:CD:39:7A:8C:C5:96"
+      ]
+    }
+  }
+]
